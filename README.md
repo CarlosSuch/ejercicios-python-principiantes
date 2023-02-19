@@ -1,4 +1,4 @@
-<h1>Ejercicios de Python para PRINCIPIANTES</h1>
+<center></center><h1>Ejercicios de Python para PRINCIPIANTES</h1></center>
 
 <p>¡Hola! Si has llegado hasta aquí es porque seguro andas en busca de EJERCICIOS en PYTHON para PRINCIPIANTES.</p>
 
