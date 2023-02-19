@@ -6,6 +6,7 @@ Escribe una función que pase un número entero de minutos y los convierta en se
 Por ejemplo, usando el número: 25
 
 ¡Prueba por ti mism@ antes de ver la solución! 
+
 '''
 
 
