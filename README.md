@@ -9,7 +9,9 @@
 <p>Al entrar a cada uno de los ejercicios te RECOMIENDO, que antes de ver la SOLUCIÓN, trates de RESOLVERLO POR TI MISM@</p>
 
 <center><h2>Ejercicio 1: Convierte minutos en segundos mediante una función de Python</h2></center>
+<p>En este ejercicio tendrás que convertir cualquier número entero a segundos. Te recuerdo que los ejercicios los puedes encontrar arriba del todo.</p>
 <center><h2>Ejercicio 2: Incrementa el valor de un número en 1 con una función de Python.</h2></center>
+<p>Este ejercicio hay que crear una función que incrementa el valor en + 1 sobre cualquier número.</p>
 <center><h2>Ejercicio 3: Mediante una función suma dos números y usa return.</h2></center>
 <center><h2></h2></center>
 <center><h2></h2></center>
