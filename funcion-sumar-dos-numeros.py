@@ -14,12 +14,15 @@ suma(-5, -10)   -> -15
 
 '''
 
-# Mi solución
+# 1 solución
 def suma(a, b):
     return a + b
+# imprimimos en pantalla
+print(suma(4,9))
 
-
-# Otra solución 
+# 2 solución 
 def suma_dos(numero1, numero2):
     sumita = numero1 + numero2
     return sumita
+# imprimimos la comprobación por pantalla
+print(suma_dos(-5, -10))
