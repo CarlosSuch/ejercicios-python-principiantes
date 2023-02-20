@@ -1,6 +1,6 @@
 <center><h1 style="color: blue">**Ejercicios Básicos de Python 🐍 para Principiantes**</h1></center>
 
-<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=600"
+<img src="\python_ejercicios_faciles.png"
      alt="Ejercicios de programación en python nivel sencillo">
 <p>¿Quieres aprender programación con Python? Si es así, has llegado al lugar indicado. Aquí encontrarás una selección de ejercicios para principiantes, perfectos para empezar tus primeros pasos en la programación con Python.</p>
 
