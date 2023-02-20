@@ -1,23 +1,21 @@
-<center></center><h1>Ejercicios de Python para PRINCIPIANTES</h1></center>
+<center><h1>Ejercicios Básicos de Python 🐍 para Principiantes</h1></center>
 
-<p>¡Hola! Si has llegado hasta aquí es porque seguro andas en busca de EJERCICIOS en PYTHON para PRINCIPIANTES.</p>
+<p>¿Quieres aprender programación con Python? Si es así, has llegado al lugar indicado. Aquí encontrarás una selección de ejercicios para principiantes, perfectos para empezar tus primeros pasos en la programación con Python.</p>
 
-<p>Aquí puedes encontrar una lista de ejercicios de NIVEL FÁCIL que son perfectos para iniciarse en la programación con python.</p>
+<center><h2>¿Cómo hacer los ejercicios de Python básicos?</h2></center>
 
-<center><h2>Instrucciones básicas</h2></center>
+<p>Los ejercicios están enumerados. Simplemente lee las instrucciones y trata de resolverlo por ti mism@ antes de ver la solución.</p>
 
-<p>Al entrar a cada uno de los ejercicios te RECOMIENDO, que antes de ver la SOLUCIÓN, trates de RESOLVERLO POR TI MISM@</p>
+<h2>Listado de problemas Python -Nivel Fácil-</h2>
 
-<center><h2>Ejercicio 1: Convierte minutos en segundos mediante una función de Python</h2></center>
-<p>En este ejercicio tendrás que convertir cualquier número entero a segundos. Te recuerdo que los ejercicios los puedes encontrar arriba del todo.</p>
-<center><h2>Ejercicio 2: Incrementa el valor de un número en 1 con una función de Python.</h2></center>
-<p>Este ejercicio hay que crear una función que incrementa el valor en + 1 sobre cualquier número.</p>
-<center><h2>Ejercicio 3: Mediante una función suma dos números y usa return.</h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
-<center><h2></h2></center>
+<h3>1. Convierta minutos a segundos con una función<h/3>
+
+<p>Escriba una función en Python para convertir minutos a segundos. Esta función tomará un número de minutos como entrada y devolverá el equivalente en segundos. Esta función será útil para realizar cálculos simples pero precisos con el tiempo.</p>
+
+<h3>2. Escribir una Función de Python para Sumar Dos Números.</h3>
+
+<p>En este ejercicio de Python, escribirás una función que toma dos argumentos numéricos y devuelve la suma de los dos números. La función deberá ser capaz de manejar números enteros.</p>
+
+
+<p></p>
+<h3></h3>
