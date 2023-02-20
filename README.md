@@ -20,10 +20,8 @@
 
 <h3>3. Incrementa el valor de un número en 1</h3>
 
-<p>Este ejercicio en Python te ayudará a aumentar el valor de un número entero en 1.</p>
+<p>Este ejercicio en Python te ayudará a aumentar el valor de un número entero en 1. La función recibirá como argumento un número entero y devolverá el mismo número aumentado en 1.</p> 
 
-<p>La función recibirá como argumento un número entero y devolverá el mismo número aumentado en 1.</p> 
-
-<p>Esto te permitirá realizar operaciones matemáticas básicas de forma rápida y sencilla en el código.</p>
+<p>Esto te permitirá realizar operaciones matemáticas básicas de forma rápida y sencilla en tu código.</p>
 
 <h3></h3>
