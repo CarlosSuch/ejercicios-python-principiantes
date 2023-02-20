@@ -1,8 +1,7 @@
-<center><h1 style="color: blue">**Ejercicios Básicos de Python 🐍 para Principiantes**</h1>
+<center><h1 style="color: blue">**Ejercicios Básicos de Python 🐍 para Principiantes**</h1></center>
 
-
-![python_ejercicios_faciles](https://user-images.githubusercontent.com/117904606/220174232-4767187b-9e59-4ab6-9525-46dd54002dc1.png)</center>
-
+<img src="\python_ejercicios_faciles.png"
+     alt="Ejercicios de programación en python nivel sencillo">
 <p>¿Quieres aprender programación con Python? Si es así, has llegado al lugar indicado. Aquí encontrarás una selección de ejercicios para principiantes, perfectos para empezar tus primeros pasos en la programación con Python.</p>
 
 <center><h2>¿Cómo hacer los ejercicios de Python básicos?</h2></center>
@@ -19,6 +18,12 @@
 
 <p>En este ejercicio de Python, escribirás una función que toma dos argumentos numéricos y devuelve la suma de los dos números. La función deberá ser capaz de manejar números enteros.</p>
 
+<h3>3. Incrementa el valor de un número en 1</h3>
 
-<p></p>
+<p>Este ejercicio en Python te ayudará a aumentar el valor de un número entero en 1.</p>
+
+<p>La función recibirá como argumento un número entero y devolverá el mismo número aumentado en 1.</p> 
+
+<p>Esto te permitirá realizar operaciones matemáticas básicas de forma rápida y sencilla en tu código.</p>
+
 <h3></h3>
