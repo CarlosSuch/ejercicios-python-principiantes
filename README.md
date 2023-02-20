@@ -8,7 +8,7 @@
 
 <h2>Listado de problemas Python -Nivel Fácil-</h2>
 
-<h3>1. Convierta minutos a segundos con una función<h/3>
+<h3>1. Convierta minutos a segundos con una función</h3>
 
 <p>Escriba una función en Python para convertir minutos a segundos. Esta función tomará un número de minutos como entrada y devolverá el equivalente en segundos. Esta función será útil para realizar cálculos simples pero precisos con el tiempo.</p>
 
