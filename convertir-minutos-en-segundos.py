@@ -1,11 +1,11 @@
 '''
 __________CONVERTIR MINUTOS EN SEGUNDOS__________
 
-Escribe una función que pase un número entero de minutos y los convierta en segudos.
+Este ejercicio consiste en crear una función de Python que permita convertir minutos (en números enteros) a segundos. 
 
-Por ejemplo, usando el número: 25
+La función recibirá una variable llamada 'minutos', la cual será un entero, y devolverá un entero correspondiente a la cantidad de segundos equivalentes. Por ejemplo, si se pasa un argumento de 5 minutos, la función devolverá 300 segundos.
 
-¡Prueba por ti mism@ antes de ver la solución! 
+Extra: Usa return 
 
 '''
 
@@ -13,8 +13,8 @@ Por ejemplo, usando el número: 25
 # 1 solución 
 def minutos_segundos(num):
     return num * 60
-# Creamos un print para mostrarlo por pantalla
-print(minutos_segundos(25))
+# Imprimimos la comprobación en pantalla
+print(minutos_segundos(5))
 
 
 # 2 solución
