@@ -3,6 +3,8 @@ ______________Devolver el siguiente número_____________
 
 En este ejercicio se pide que se cree una función, que se tomará como argumento, y tenemos que incrementar su valor en 1. 
 
+ejemplos: 
+
 incrementar(2)   -> 3
 incrementar(8)   -> 9
 incrementar(-2)  -> -1
