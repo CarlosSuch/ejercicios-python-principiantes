@@ -24,4 +24,10 @@
 
 <p>Esto te permitirá realizar operaciones matemáticas básicas de forma rápida y sencilla en tu código.</p>
 
+<h3>4. Calcula el Área de un Triángulo Utilizando una función Python</h3>
+
+<p>Este ejercicio te ayudará a practicar la creación de funciones en Python. Para realizarlo, primero tendrás que crear una función que calcule el área de un triángulo a partir de los valores de sus tres lados y la altura. </p>
+
+<p>Luego, comprobarás que tu función es correcta al calcular el área de un triángulo conocido. El área de un triángulo se calcula como: Área = (base x altura) / 2.</p>
+
 
